@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="japan_trip">Japan Trip</string>
+    <string name="m_btnname">여행지</string>
+    <string name="m_btnname2">맛집</string>
+    <string name="m_btnname1">즐길곳</string>
+    <string name="todo">TODO</string>
+    <string name="f_txt">TextView</string>
+    <string name="e_script">설명 :</string>
+    <string name="e_txt">관광지명 :</string>
+</resources>
